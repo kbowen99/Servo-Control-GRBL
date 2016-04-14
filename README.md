@@ -8,7 +8,7 @@ Grbl is a no-compromise, high performance, low cost alternative to parallel-port
 The Purpose of this fork is to implement DC motor control using a motor controller shield, encoders and lots of PID
 
 
----
+
 ---
 
 * [Licensing](https://github.com/grbl/grbl/wiki/Licensing): Grbl is free software, released under the GPLv3 license.
