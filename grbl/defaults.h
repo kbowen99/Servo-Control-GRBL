@@ -32,7 +32,7 @@
 
 #ifdef DEFAULTS_GENERIC
   // Grbl generic default settings. Should work across different machines.
-  #include "defaults/defaults_generic.h"
+  #include "defaults_generic.h"
 #endif
 
 #ifdef DEFAULTS_SIMULATOR
